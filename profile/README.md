@@ -93,14 +93,12 @@ discuss a partnership, reach out to our founding team directly.
 
 **Andrés Yair**
 Founder
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](htt
-ps://wa.me/573135137208)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573135137208)
 [+57 313 513 7208](https://wa.me/573135137208)
 
 **Miguel Gutiérrez**
 Co-Founder
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](htt
-ps://wa.me/573113230033)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/573113230033)
 [+57 311 323 0033](https://wa.me/573113230033)
 
 ### General Inquiries
