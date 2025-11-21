@@ -44,7 +44,7 @@ Our digital approach removes the friction of lost or forgotten cards.
  data-driven decisions about promotions and rewards.
 
 **Simple pricing.** No hardware to buy, no complex integrations. Start with a subscription that fits
-your business size.
+Your business size.
 
 ### For Customers
 
@@ -87,7 +87,7 @@ Ready to launch your loyalty program?
 ## Contact
 
 We'd love to hear from you. Whether you have questions about the platform, need support, or want to
-discuss a partnership, reach out to our founding team directly.
+Discuss a partnership, reach out to our founding team directly.
 
 ### Founders
 
@@ -104,7 +104,7 @@ Co-Founder
 ### General Inquiries
 
 - **Website**: [emocis.com](https://emocis.com)
-- **Email**: emocisapp@gmail.com
+- **Email**: hello@emocis.com
 
 ---
 
